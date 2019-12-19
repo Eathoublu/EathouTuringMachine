@@ -1,7 +1,7 @@
 # 图灵机模型 by Yixiao Lan
 Email:yixiaolan@foxmail.com
 ## Introduce
-This is a turing machine model with simplify operation set.
+A Turing Machine instance with assembler-like syntax and instruction set.
 The script file name is hard coded in script is 'tape.trl', allowing you you change it to yours.Run it, and you will see output in the terminal.
 We called the language for this model is 'trl'.
 ## Operation Set
@@ -29,7 +29,7 @@ For the following item, no second argument is needed.
 Remember to add ';' on every end of line.
 There's no white space between value and ','.
 ##Sample
-```EL
+```TRL
 MOV @1,2;
 MUL @1,2;
 PRT @1;
