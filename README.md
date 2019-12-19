@@ -25,10 +25,10 @@ For the following item, the second argument is an memory cursor.
 For the following item, no second argument is needed.
 14. PRTM    PRINT COMPLETE MEMORY TO TERMINAL
 15. END    QUIT PROCESS
-##Note
+## Note
 Remember to add ';' on every end of line.
 There's no white space between value and ','.
-##Sample
+## Sample
 ```TRL
 MOV @1,2;
 MUL @1,2;
