@@ -2,8 +2,8 @@
 Email:yixiaolan@foxmail.com
 ## Introduce
 A Turing Machine instance with assembler-like syntax and instruction set.
-The script file name is hard-coded in the machine source code named 'tape.trl', allowing you change it to yours.Run it, and you will see output in the terminal.
-We called the language for this model is 'trl'.
+The script file name is hard-coded in the machine source code named 'tape.trl', allowing you to change it to yours.Run it, and you will see output in the terminal.
+We called the language for this model 'trl'.
 ## Operation Set
 Now the operation set is allow operate as follow:
 For the following item, the first code is the operate code, followed by two arguments.The first argument is a memory cursor refer to a memory space(0<cursor<1024),the second argument is the immediate value or a memory cursor to add to the address value, result will storage in the memory space refer by the first argument. Remember to add an '@' symbol before the cursor's value like '@23'.
