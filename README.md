@@ -2,7 +2,7 @@
 Email:yixiaolan@foxmail.com
 ## Introduce
 A Turing Machine instance with assembler-like syntax and instruction set.
-The script file name is hard coded in script is 'tape.trl', allowing you you change it to yours.Run it, and you will see output in the terminal.
+The script file name is hard-coded in the machine source code named 'tape.trl', allowing you change it to yours.Run it, and you will see output in the terminal.
 We called the language for this model is 'trl'.
 ## Operation Set
 Now the operation set is allow operate as follow:
